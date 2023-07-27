@@ -42,15 +42,6 @@ The Inventory Management System efficiently handles data by utilizing nonpersist
 
 ## Contributions and Bug Reporting
 
-Contributions to this project are welcome! If you encounter any bugs, have feature suggestions, or wish to enhance the functionality, feel free to open an issue or submit a pull request. Your contributions will be reviewed and appreciated.
+Contributions to this project are welcome! If you encounter any bugs, have feature suggestions, or wish to enhance the functionality, feel free to open an issue or submit a pull request. 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the code with proper attribution.
-
-## Credits
-
-The Inventory Management System is created by [Your Name] and serves as an academic or personal project. Any resemblance to real organizations is purely coincidental.
-
----
-Please note that this project description is a generic template and should be customized to suit your specific Inventory Management System project. Replace placeholders with actual information relevant to your application.
