@@ -12,7 +12,7 @@ The application boasts a visually appealing and intuitive GUI, carefully crafted
 
 ### 2. Object-Oriented Design
 
-Built upon a solid foundation of object-oriented programming, the Inventory Management System incorporates various classes that map to the UML class diagram provided. The design includes inheritance, abstract and concrete classes, and the use of instance and static variables and methods. This ensures flexibility and maintainability while accommodating future enhancements to the application.
+Built upon a solid foundation of object-oriented programming, the Inventory Management System incorporates various classes that map to a UML class diagram. The design includes inheritance, abstract and concrete classes, and the use of instance and static variables and methods. This ensures flexibility and maintainability while accommodating future enhancements to the application.
 
 ### 3. Comprehensive Functionality
 
@@ -36,7 +36,7 @@ The Inventory Management System efficiently handles data by utilizing nonpersist
 
 2. **Import Project:** Open the project in IntelliJ IDEA by selecting "Open" and navigating to the project directory.
 
-3. **Set Up JavaFX SDK:** Ensure that you have set up the JavaFX SDK correctly in IntelliJ IDEA. If not, follow the official documentation to configure the SDK.
+3. **Set Up JavaFX SDK:** Ensure that you have set up the JavaFX SDK correctly in IntelliJ IDEA. 
 
 4. **Compile and Run:** Once the project is set up and the SDK is configured, compile and run the application. The GUI will be launched, allowing you to interact with the Inventory Management System.
 
