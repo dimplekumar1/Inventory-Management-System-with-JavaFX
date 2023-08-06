@@ -40,8 +40,5 @@ The Inventory Management System efficiently handles data by utilizing nonpersist
 
 4. **Compile and Run:** Once the project is set up and the SDK is configured, compile and run the application. The GUI will be launched, allowing you to interact with the Inventory Management System.
 
-## Contributions and Bug Reporting
-
-Contributions to this project are welcome! If you encounter any bugs, have feature suggestions, or wish to enhance the functionality, feel free to open an issue or submit a pull request. 
 
 
